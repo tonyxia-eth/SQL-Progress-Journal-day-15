@@ -1,4 +1,4 @@
-# SQL-Progress-Journal-day-15
+# SQL-Progress-Journal-day-14
 
 # 📊 CS50 SQL Moneyball – Day 14: Pattern Matching with `LIKE` and Deep JOINs
 
